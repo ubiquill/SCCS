@@ -1,0 +1,23 @@
+Copyright 2011 Thomas Schreiber
+ubiquill@gmail.com
+
+These files implement a method for building graphs, and finding the strongly
+connected components of those graphs. This code is intended to test the 
+time complexity of Kosaraju's strongly connected component algorithm. The
+included paper was written for CS350 at Portland State University.
+
+
+Files:
+  cliqueForest.py            -- Generates clique forests
+  cliquesForTesting.png      -- Graphed results
+  dfsadjacencylist.png       -- Informitive graphic
+  GibsondirectedGraph.png    -- Graphed results
+  Graphoutmax3.png           -- Graphed results
+  randGraph1.py              -- One method for creating random graphs
+  randGraph2.py              -- A second method
+  randUndirected.py          -- Creates random undirected graphs
+  README                     -- This file :)
+  sccs.py                    -- Main driver
+  simplegraph.png            -- Graphed results
+  termproject.tex            -- Final paper
+  undirectedGraph.png        -- Graphed results
